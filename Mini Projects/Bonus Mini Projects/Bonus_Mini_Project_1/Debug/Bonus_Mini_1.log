@@ -1,8 +1,0 @@
-﻿  main.c
-C:\Users\6989thompsz\OneDrive - Marquette University\Computer Apps\Bonus Minis\Bonus_Mini_Project_1\main.c(16,24): warning C4101:  'f_n': unreferenced local variable
-C:\Users\6989thompsz\OneDrive - Marquette University\Computer Apps\Bonus Minis\Bonus_Mini_Project_1\main.c(16,6): warning C4101:  's_0': unreferenced local variable
-C:\Users\6989thompsz\OneDrive - Marquette University\Computer Apps\Bonus Minis\Bonus_Mini_Project_1\main.c(16,15): warning C4101:  'f_0': unreferenced local variable
-C:\Users\6989thompsz\OneDrive - Marquette University\Computer Apps\Bonus Minis\Bonus_Mini_Project_1\main.c(44,18): warning C4133:  'function': incompatible types - from 'FILE *' to 'const char *const '
-C:\Users\6989thompsz\OneDrive - Marquette University\Computer Apps\Bonus Minis\Bonus_Mini_Project_1\main.c(26): warning C4716:  'create_high_pass_filt': must return a value
-C:\Users\6989thompsz\OneDrive - Marquette University\Computer Apps\Bonus Minis\Bonus_Mini_Project_1\main.c(30): warning C4716:  'create_band_pass_filt': must return a value
-  Bonus_Mini_1.vcxproj -> C:\Users\6989thompsz\OneDrive - Marquette University\Computer Apps\Bonus Minis\Bonus_Mini_Project_1\Debug\Bonus_Mini_1.exe
