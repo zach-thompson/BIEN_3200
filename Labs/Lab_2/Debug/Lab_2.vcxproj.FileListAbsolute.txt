@@ -1,4 +1,0 @@
-C:\Users\zacht\OneDrive\Desktop\Work\School\Computer Apps\Labs\Lab_2\Lab_2\Debug\Lab_2.exe
-C:\Users\zacht\OneDrive\Desktop\Work\School\Computer Apps\Labs\Lab_2\Lab_2\Debug\Lab_2.pdb
-C:\Users\zacht\OneDrive\Desktop\Work\School\Computer Apps\Labs\Lab_2\Debug\Lab_2.exe
-C:\Users\zacht\OneDrive\Desktop\Work\School\Computer Apps\Labs\Lab_2\Debug\Lab_2.pdb
