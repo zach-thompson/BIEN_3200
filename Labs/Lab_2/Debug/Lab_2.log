@@ -1,0 +1,8 @@
+﻿  Lab_2_Source.c
+  Utility.c
+  event_detection.c
+C:\Users\zacht\OneDrive\Desktop\Work\School\Computer Apps\Labs\Lab_2\event_detection.c(41,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\zacht\OneDrive\Desktop\Work\School\Computer Apps\Labs\Lab_2\event_detection.c(41,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\zacht\OneDrive\Desktop\Work\School\Computer Apps\Labs\Lab_2\event_detection.c(51): warning C4716: 'AF1': must return a value
+  Lab_2.vcxproj -> C:\Users\zacht\OneDrive\Desktop\Work\School\Computer Apps\Labs\Lab_2\Debug\Lab_2.exe

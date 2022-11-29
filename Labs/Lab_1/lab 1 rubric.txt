@@ -1,0 +1,33 @@
+flowchart just for the histogram
+
+commment all code
+
+read header
+load data
+
+list headers and MAP, PP
+takes user input
+
+calculate MAP, PP
+min/max data bounds
+mean, std, skewness, mode, variance
+
+file histogroam_result
+calc bin centers
+histogram values
+histogram of MAP, PP, and one other
+
+matlab needs to calc everything
+read in histogram, make bar chart
+
+report:
+abstract: software objectives in context
+provide data format
+describe equations for MAP/PP
+approach for creating histogram
+
+results:
+screenshot of each user interaction, listing headers, prompts to user, final output
+matlab histogram of MAP/PP and one other
+
+discussion

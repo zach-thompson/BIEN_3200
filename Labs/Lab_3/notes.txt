@@ -1,0 +1,27 @@
+2 headers, 3 c files
+utility:
+array addition, subtraction, multiplication
+
+signal_gen:
+signal structure
+sinusoidal function
+
+main function:
+sums sin waves and output to a text file
+
+challenges:
+use command line
+determine how many data points for th sine wave (sampling frequency, amplitude, phase shift(theta))
+
+How to calculate sine wave:
+y(t) = A*sin(2*pi*fundamental freq*t + phase shift)
+A = amplitude = 1
+fundamental frequency (ff) = 
+sampling frequency (fs) = 
+
+number of points = time*fs
+
+// C_code.exe fs, freq1, theta1, freq2, theta2... freq n, theta n
+
+200, 50,     1,    100, 1, 
+fs,  ff1, theta1, 

@@ -1,0 +1,13 @@
+Take statistics of data (skew, bin quantities)
+
+Take derivatives and threshholds (1st, 2nd derivatives)
+
+Zero crossings
+
+Frequency domain, dft, power spectrum analysis
+
+Steps:
+1. Plot data to see visual differences
+2. Determine awake vs. sleeping
+3. 
+

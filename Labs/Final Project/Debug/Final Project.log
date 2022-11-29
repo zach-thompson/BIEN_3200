@@ -1,0 +1,7 @@
+﻿  Source_final.c
+  Utility_final.c
+C:\Users\zacht\OneDrive - Marquette University\Computer Apps\Labs\Final Project\Utility_final.c(64,29): warning C4013: 'strtok_s' undefined; assuming extern returning int
+C:\Users\zacht\OneDrive - Marquette University\Computer Apps\Labs\Final Project\Utility_final.c(64,59): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\zacht\OneDrive - Marquette University\Computer Apps\Labs\Final Project\Utility_final.c(67,64): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\zacht\OneDrive - Marquette University\Computer Apps\Labs\Final Project\Debug\Final Project.exe

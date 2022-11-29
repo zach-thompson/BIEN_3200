@@ -1,0 +1,12 @@
+﻿  Header.c
+C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Header.c(190,20): warning C4013: 'strtok_s' undefined; assuming extern returning int
+C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Header.c(190,50): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Header.c(193,52): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  Source.c
+C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Source.c(48,24): warning C4778: 'fprintf' : unterminated format string '%\n'
+C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Source.c(49,25): warning C4778: 'fprintf' : unterminated format string '%\n'
+C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Source.c(50,24): warning C4778: 'fprintf' : unterminated format string '%\n'
+C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Source.c(51,24): warning C4778: 'fprintf' : unterminated format string '%\n'
+C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Source.c(54,22): warning C4020: 'fclose': too many actual parameters
+  Generating Code...
+  Bonus_Mini_Project_2.vcxproj -> C:\Users\zacht\Documents\School\BIEN 3200 - Computer Apps\Mini Projects\Bonus Mini Projects\Bonus_Mini_Project_2\Debug\Bonus_Mini_Project_2.exe

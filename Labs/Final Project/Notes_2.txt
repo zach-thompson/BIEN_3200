@@ -1,0 +1,10 @@
+lab report:
+percent accuracy
+if it fails, why?
+if it doesn't fail, explain where it might
+Would it still work if noise/skew/drift was added?
+See last paragraph of assignment for output example
+Use plots of awake/asleep to demonstrate what algorithm is looking for
+
+for flowchart:
+load file --> perform analysis steps --> output results
